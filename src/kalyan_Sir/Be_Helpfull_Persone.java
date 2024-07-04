@@ -3,8 +3,8 @@ package kalyan_Sir;
 public class Be_Helpfull_Persone {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("our main agenda is to teach core"+" funtinality to students like as primary colors");
+System.out.println("arif is a sadist persone");
 	}
 
 }
